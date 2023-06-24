@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Arnaldo "Spellunker" Júnior, a brazilian guy who likes tech and have fond memories from when I learned to code. </br>
+I'm back into coding now, learning <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
+Python and aiming to be a Data Science or Backend Developer. </br>
+
+### 🌎Socials
+<a href="https://www.instagram.com/arnaldo.lmjr/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/arnaldo-luiz-martins-junior-39188a195/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <!--
 **Spellunker/Spellunker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
